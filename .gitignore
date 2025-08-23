@@ -1,6 +1,6 @@
 .DS_Store
 /.srv/*
-!/srv/custom.ini
+!/.srv/custom.ini
 /plugins/Akismet
 /plugins/hello.php
 /themes/twentytwentyfive
