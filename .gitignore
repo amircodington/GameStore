@@ -7,3 +7,6 @@
 /themes/twentytwentyfive
 /themes/twentytwentyfour
 /themes/twentytwentythree
+/github/
+.maintenance
+wp-version-control.cfg
